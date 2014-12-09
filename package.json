@@ -1,0 +1,11 @@
+{
+  "name": "turbo-pascal-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A theme reminiscent of the Borland Turbo Pascal IDE",
+  "repository": "https://github.com/atom/turbo-pascal-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
