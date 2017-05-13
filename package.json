@@ -1,7 +1,7 @@
 {
   "name": "turbo-pascal-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A theme reminiscent of the Borland Turbo Pascal IDE",
   "repository": "https://github.com/tdack/turbo-pascal-syntax.git",
   "license": "MIT",
